@@ -1,5 +1,5 @@
-# 🚀 Production AI Lab  
-### From Data Engineer to AI Platform Engineer (2026 Roadmap)
+## 🚀 Production AI Lab  
+#### From Data Engineer to AI Platform Engineer (2026 Roadmap)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GCP-blue)
 ![Vertex AI](https://img.shields.io/badge/Vertex-AI-4285F4)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Overview
+### 📌 Overview
 
 This repository documents a structured 30-week evolution from:
 
@@ -35,7 +35,7 @@ It is a **production-grade AI engineering laboratory**, covering:
 
 ---
 
-# 🏗 Engineering Philosophy
+## 🏗 Engineering Philosophy
 
 AI in 2026 is not about experimentation.
 
@@ -48,15 +48,11 @@ It is about:
 - Cost awareness
 - Production readiness
 
-Rule of this lab:
-
-> If it cannot run safely in production, it is incomplete.
-
 ---
 
-# 🗺 30-Week Evolution Framework
+## 🗺 30-Week Evolution Framework
 
-## 🔹 Phase 1 – Production ML Foundations
+### 🔹 Phase 1 – Production ML Foundations
 - Cloud Run deployment
 - Budget guardrails
 - Supervised ML
@@ -71,7 +67,7 @@ Production ML model deployed and monitored.
 
 ---
 
-## 🔹 Phase 2 – Generative AI & RAG Systems
+### 🔹 Phase 2 – Generative AI & RAG Systems
 - Gemini API integration
 - Prompt engineering
 - Structured JSON outputs
@@ -86,7 +82,7 @@ Production RAG system with monitored inference.
 
 ---
 
-## 🔹 Phase 3 – AI Agents & LLMOps
+### 🔹 Phase 3 – AI Agents & LLMOps
 - Tool-calling agents
 - Allowlist security
 - LLM observability
@@ -99,7 +95,7 @@ Production AI agent with telemetry & cost tracking.
 
 ---
 
-## 🔹 Phase 4 – Streaming ML & Real-Time AI
+### 🔹 Phase 4 – Streaming ML & Real-Time AI
 - Dataflow streaming pipelines
 - Real-time feature engineering
 - Online inference
@@ -112,7 +108,7 @@ Real-time ML system with alerts and explainability.
 
 ---
 
-## 🔹 Phase 5 – Certification & Market Positioning
+### 🔹 Phase 5 – Certification & Market Positioning
 - Google Professional Machine Learning Engineer (PMLE)
 - Interview preparation
 - System design
@@ -124,29 +120,29 @@ Certified, production-ready AI Engineer.
 
 ---
 
-# 🧠 What This Repository Demonstrates
+## 🧠 What This Repository Demonstrates
 
-## Production Capability
+### Production Capability
 - IAM best practices
 - Service accounts
 - Budget enforcement
 - Cleanup modes (pause, service, all)
 - Observability-first architecture
 
-## ML Engineering
+### ML Engineering
 - Supervised models
 - Feature pipelines
 - Tree-based algorithms
 - Metrics tracking
 - Drift detection
 
-## Applied AI
+### Applied AI
 - Structured LLM outputs
 - Deterministic JSON parsing
 - RAG with vector search
 - Embeddings indexing
 
-## ML Platform Engineering
+### ML Platform Engineering
 - Tool-based AI agents
 - Streaming ML pipelines
 - Online inference systems
@@ -154,7 +150,7 @@ Certified, production-ready AI Engineer.
 
 ---
 
-# 💰 Cost Governance Strategy
+## 💰 Cost Governance Strategy
 
 Every module includes:
 
@@ -168,7 +164,7 @@ AI engineering without cost awareness is incomplete.
 
 ---
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 - Google Cloud Platform
 - Cloud Run
@@ -184,7 +180,7 @@ AI engineering without cost awareness is incomplete.
 
 ---
 
-# 📊 Architecture Patterns Covered
+## 📊 Architecture Patterns Covered
 
 - REST-based ML inference APIs
 - RAG systems
@@ -195,7 +191,7 @@ AI engineering without cost awareness is incomplete.
 
 ---
 
-# 🎯 Strategic Objective
+## 🎯 Strategic Objective
 
 Build and demonstrate capability as:
 
@@ -204,13 +200,9 @@ Build and demonstrate capability as:
 - Applied AI Engineer
 - ML Platform Engineer
 
-And achieve:
-
-> Google Professional Machine Learning Engineer Certification
-
 ---
 
-# 🔗 Recommended Pinned Projects
+## 🔗 Recommended Pinned Projects
 
 1. Production ML API (Vertex + Monitoring)
 2. Full RAG system with evaluation
@@ -218,7 +210,7 @@ And achieve:
 
 ---
 
-# 📎 Final Outcome
+## 📎 Final Outcome
 
 This repository documents the transition from:
 
